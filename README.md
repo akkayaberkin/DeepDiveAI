@@ -12,7 +12,7 @@ Each post is published every 3 days, covering one deep topic with code examples,
 | 2 | Week 2 | ✅ [Transformer Architecture & Attention Mechanism](posts/2-transformer-mimarisi-ve-attention.md) |
 | 3 | Week 3 | ✅ [Advanced Prompting Techniques](posts/3-advanced-prompting-teknikleri.md) |
 | 4 | Week 4 | ✅ [RAG & Vector Databases](posts/4-rag-ve-vektor-veri-tabanlari.md) |
-| 5 | Week 5 | Technical Fine-Tuning |
+| 5 | Week 5 | ✅ [Technical Fine-Tuning](posts/5-teknik-fine-tuning.md) |
 | 6 | Week 6 | Advanced Topics & MLOps |
 
 ## License
