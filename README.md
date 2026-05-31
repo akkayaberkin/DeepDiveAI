@@ -13,7 +13,7 @@ Each post is published every 3 days, covering one deep topic with code examples,
 | 3 | Week 3 | ✅ [Advanced Prompting Techniques](posts/3-advanced-prompting-teknikleri.md) |
 | 4 | Week 4 | ✅ [RAG & Vector Databases](posts/4-rag-ve-vektor-veri-tabanlari.md) |
 | 5 | Week 5 | ✅ [Technical Fine-Tuning](posts/5-teknik-fine-tuning.md) |
-| 6 | Week 6 | Advanced Topics & MLOps |
+| 6 | Week 6 | ✅ [Advanced Topics & MLOps](posts/6-gelismis-konular-ve-mlops.md) |
 
 ## License
 
